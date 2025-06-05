@@ -695,7 +695,7 @@ section {
     margin-top: 30px;
     margin-bottom: 15px;
     font-size: 1.3em;
-    color: #444;
+    /* color: #444; */
     /* Crucial for alignment: ensure no left offset */
     text-align: left; /* Overrides any potential centering from parent */
     padding-left: 0; /* Remove any unwanted padding */
